@@ -76,7 +76,7 @@ $Message.Body = ""
 $TableData = ''
 
 
-# Feature Addition Here
+# Feature Additions Will Go Here
 
 
 Write-Output "`nMissing and Outdated SQL Backups`n`n"
